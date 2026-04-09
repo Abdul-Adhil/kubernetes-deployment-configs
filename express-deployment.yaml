@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: express-order-service
-        image: abduladhil/devops-app:3b2892a2
+        image: abduladhil/devops-app:b3b616b1
         ports:
           - containerPort: 3000
         resources:
